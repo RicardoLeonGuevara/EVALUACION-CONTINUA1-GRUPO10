@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppCalculadora</string>
+
+    <string name="valtitulo">CALCULADORA AÑO BISIESTO</string>
+    <string name="valettalla">Ingrese el año:</string>
+    <string name="valetpeso">Ingrese su Peso (kg)</string>
+    <string name="valbtncalcular">CALCULAR</string>
+</resources>
